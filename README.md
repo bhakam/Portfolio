@@ -7,8 +7,6 @@
 https://github.com/user-attachments/assets/801aaa20-daf6-4503-b481-fcf15de849ef
 
 
-Special features:
-
 # UI for Agentic AI
 
 https://github.com/user-attachments/assets/d411a948-8c99-45f8-8ba1-758339940950
